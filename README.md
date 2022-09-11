@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">Java Developer with excellent problem-solving skills and ability to perform well in a team. Passionate about coding with various techniques and Algorithm.</h3>
 
-- 🔭 I’m currently Leaning Java Full stack @ineuron.ai
+- 🔭 I’m currently learning Java Full stack @ineuron.ai
 
 - 🤝 I’m looking for job with my own skill sets **Java full stack|Data Analyst**
 
