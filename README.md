@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sanjayofficial2k@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/imsanju02k/imsanju02k/blob/main/SANJAY.RESUME.pdf](https://github.com/imsanju02k/imsanju02k/blob/main/SANJAY.RESUME.pdf)
+- 📄 Know about my experiences [https://github.com/imsanju02k/imsanju02k/blob/main/SANJAY.RESUME.pdf](https://github.com/imsanju02k/imsanju02k/blob/main/Sanjay.Resume(SD).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
