@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">Data Scientist | Web Developer | Data analyst with excellent problem-solving skills and ability to perform well in a team. Passionate about analyzing the data with various techniques and enjoy the learning the new tech stack.</h3>
+<h3 align="center">Java Developer with excellent problem-solving skills and ability to perform well in a team. Passionate about coding with various techniques and Algorithm.</h3>
 
-- 🔭 I’m currently working on Data Science Project [Movie Recommender System](https://github.com/imsanju02k/Movie-Recommender_System)
+- 🔭 I’m currently Leaning Java Full stack @ineuron.ai
 
-- 🤝 I’m looking for job with my own skill sets **Data Science|Data Analyst**
+- 🤝 I’m looking for job with my own skill sets **Java full stack|Data Analyst**
 
-- 💬 Ask me about **Data Science,Data Analysis**
+- 💬 Ask me about **Java,Data Analysis**
 
 - 📫 How to reach me **sanjayofficial2k@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/imsanju02k/imsanju02k/blob/main/SANJAY.RESUME.pdf](https://github.com/imsanju02k/imsanju02k/blob/main/Sanjay.Resume(SD).pdf)
+- 📄 Know about my experiences [https://github.com/imsanju02k/imsanju02k/blob/main/Sanjay.Resume(SD).pdf](https://github.com/imsanju02k/imsanju02k/blob/main/Sanjay.Resume(SD).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
