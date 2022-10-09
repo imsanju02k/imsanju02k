@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently learning Java Full stack @ineuron.ai
 
-- 🤝 I’m looking for job with my own skill sets **Java full stack|Data Analyst**
+- 🤝 I’m looking for job with my own skill sets **Java Full Stack Developer **
 
-- 💬 Ask me about **Java,Data Analysis**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **sanjayofficial2k@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/imsanju02k/imsanju02k/blob/main/Sanjay.Resume(SD).pdf],[https://github.com/imsanju02k/imsanju02k/blob/main/Sanjay_Resume(DA).pdf](https://github.com/imsanju02k/imsanju02k/blob/main/Sanjay.Resume(SD).pdf)
+- 📄 Know about my experiences [https://github.com/imsanju02k/imsanju02k/blob/main/Sanjay.Resume(SD).pdf]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
